@@ -1,0 +1,39 @@
+    p {
+        font-size: 20px;
+        color: red;
+    }  
+    .standout 
+    {
+        color: blue;
+    }
+    .image1:hover{
+        border-radius:50%;
+    }
+    
+    .image2:hover{
+        border-radius:30px;
+    }
+   
+    .image3:hover{
+        opacity:0.8;
+    }
+    
+    .image4:hover{
+        filter:grayscale(70%);
+    }
+   
+    .image5:hover{
+        filter:blur(5px);
+    }
+
+    .image6:hover{
+        filter:blur(5px);
+    }
+
+    .image7:hover{
+        filter:blur(5px);
+    }
+
+    .image8:hover{
+        filter:blur(5px);
+    }
